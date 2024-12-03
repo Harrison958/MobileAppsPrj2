@@ -2,6 +2,10 @@
 
  - test data + screenshots
  - feedback from instructor (mgs on teams)
- - how to build + run (in readme.md)
  - finalise application - email + screenshot
  - confirm working for tablet and mobile view
+
+## Build + run instructions
+1. clone project
+2. exec build.sh from root
+3. exec run.sh from root
